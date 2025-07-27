@@ -30,7 +30,4 @@
 - Unity (recommend **Unity 2022.3 LTS** or later)
 
 ### 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Pew-Pew-Waves.git
+to install playable pc version of game go to given Blog link from that blog you will find a link to downloadable zip file and instructions to download it 
